@@ -1,4 +1,4 @@
-                                                             SKIN DISEASE IDENTIFICATION USING IMAGE ANALYSIS
+                                                          SKIN DISEASE IDENTIFICATION USING IMAGE ANALYSIS
 
 Now a day’s people are suffering from skin diseases, More than 125 million people suffering from Psoriasis also skin cancer rate is rapidly increasing over last few decades Specially Melanoma is most diversifying skin cancer. 
 If skin diseases are not treated at earlier stage, then it may lead to complications in the body including spreading of the infection from one individual to the other. 
